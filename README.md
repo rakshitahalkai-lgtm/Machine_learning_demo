@@ -1,1 +1,6 @@
-# Machine_learning_demo
+Agriculture is highly dependent on environmental factors such as soil quality, rainfall, temperature, and humidity. Many farmers still depend on traditional knowledge or past experience when selecting crops to grow. While this approach has worked for generations, changing and soil have made crop selection more difficult. Choosing the wrong crop for a particular type of soil can result in poor yield, increased use of fertilizers and water, and financial loss for farmers.
+<img width="8618" height="88" alt="image" src="https://github.com/user-attachments/assets/898e7198-254c-4c2f-9917-8aa7b232338e" />
+To address this issue, there is a need for a smart system that can analyze important agricultural factors and recommend suitable crops.
+<img width="2538" height="88" alt="image" src="https://github.com/user-attachments/assets/24bf0635-c0a4-4d01-8491-d78fc4a8ece8" />
+An AI-based crop recommendation system can assist farmers in making better decisions, increasing productivity, and reducing environmental impact. Such technological solutions can play an important role in supporting sustainable agriculture and ensuring food security for the future.
+<img width="5263" height="88" alt="image" src="https://github.com/user-attachments/assets/db20d5a1-62ef-4658-928c-a6c935327992" />
